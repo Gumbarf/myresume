@@ -1,0 +1,12 @@
+{
+  "name": "myresume",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://Gumbarf.github.io/myresume",
+  "scripts": {
+    "deploy": "gh-pages -d site"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
